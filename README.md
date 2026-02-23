@@ -18,8 +18,8 @@
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-- 🚀 Full Stack Developer (MERN + Python)
-- 📱 Flutter App Developer
+- 🚀 Full Stack Developer (MERN)
+- 📱 Agentic AI
 - 🎯 Focused on performance & clean UI
 - 🤝 Open for Web Development Collaborations
 
@@ -72,8 +72,8 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mukeshrec&theme=tokyonight&no-frame=true&margin-w=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukeshrec&theme=tokyo-night&hide_border=true" />
 </p>
